@@ -51,7 +51,7 @@ Inclui ainda estudos de ablação com dados sintéticos e um pipeline de inferê
 
 Devido à sua dimensão, os modelos treinados e os datasets não estão neste repositório. Estão disponíveis no seguinte link:
 
-> **[COLOCAR AQUI O LINK DO GOOGLE DRIVE]**
+(https://drive.google.com/drive/folders/1NFA1W1MvPWbZeFj1GQo7vbWZ36VwKhFY?usp=drive_link)
 
 Ficheiros disponíveis no Drive:
 - `best.pt` — modelo YOLOv8n treinado (PyTorch)
