@@ -1,0 +1,8 @@
+path: C:/Users/manue/Desktop/Projeto LP/dataset
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: negative
+  1: smoke
